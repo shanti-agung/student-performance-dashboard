@@ -5,7 +5,7 @@ import seaborn as sns
 
 st.title("Student Performance Demo")
 
-student_df = pd.read_csv("../data/student-mat.csv", delimiter=";")
+student_df = pd.read_csv("./data/student-mat.csv", delimiter=";")
 
 st.sidebar.info("Enter your preferences below")
 unique_fam_size = sorted(student_df["famsize"].unique())
