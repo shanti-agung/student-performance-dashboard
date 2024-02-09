@@ -1,4 +1,6 @@
 # Student Performance Dashboard Demo
 
-Student performance data for this demo dashboard was obtained from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/). 
-The dataset was downloaded on February 8, 2024.
+This repo was created to test dashboard deployment at streamlit comunity cloud. 
+
+Data source: Cortez,Paulo. (2014). Student Performance. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T. 
+
